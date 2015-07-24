@@ -1,0 +1,15 @@
+[accounts]
+1 1 "current" "My current account"
+2 1 "savings" "My savings account"
+3 0 "wizzycorp" "Generic company/employer"
+4 0 "bank loan" "A loan from the bank"
+5 0 "ultra markt" "Generic store 1"
+6 0 "price busterz" "Generic store 2"
+7 0 "expensives r us" "Generic store 3"
+[transactions]
+1 1437056242 2 2 4321 "Initial savings balance"
+2 1437056242 4 1 9999 "Take out bank loan"
+3 1437056242 1 2 123 "Save one twenty three"
+5 1437056242 1 6 100 "Spend a pound"
+6 1437056242 1 7 10000 "Spend lots"
+7 1437056242 2 1 20000 "Plunder savings"

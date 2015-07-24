@@ -1,0 +1,20 @@
+
+2007-04-20 Andrew Wedgbury <wedge@sconemad.com>
+
+	* rewrite in c.
+	
+2006-05-03 Andrew Wedgbury <wedge@sconemad.com>
+
+	* add copy command.
+
+2006-03-09 Andrew Wedgbury <wedge@sconemad.com>
+
+        * add multi-command interactive mode.
+	
+2006-03-02 Andrew Wedgbury <wedge@sconemad.com>
+
+	* commit initial working version (using Perl and MySQL).
+		
+2006-02-22 Andrew Wedgbury <wedge@sconemad.com>
+
+	* started.

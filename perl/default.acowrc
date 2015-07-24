@@ -1,0 +1,5 @@
+# acow settings
+
+dbuser: user
+dbpasswd: password
+

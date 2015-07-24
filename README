@@ -1,0 +1,9 @@
+# Acow
+
+Acow is a command line accounting application that I wrote as an experiment in the use of SQL (using MySQL in particular).
+
+It is a relatively simple system, but supports multiple accounts and transactions between accounts.
+Note that the application is entirely console based, however, it could be combined with a graphical frontend.
+
+The perl directory contains the first version, written in perl using the DBI database module to connect to MySQL.
+The c directory contains a C version, which uses plain text files in place of a database to store the account details.
